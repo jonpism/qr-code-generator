@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## Features/Instructions
 
 - **Input field**: Simply enter data in the input field
